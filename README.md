@@ -1,2 +1,3 @@
-# coopti
-site para a empresa CoopTI
+# Sobre
+
+Site desenvolvido como um desafio valendo uma pizza.
